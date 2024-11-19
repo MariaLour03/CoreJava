@@ -1,2 +1,2 @@
 # Typecasting
-Java - Typecasting
+Java - Core Java
